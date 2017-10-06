@@ -18,6 +18,7 @@
 
 
 //------------------------------------ variaveis globais de interface utilizadas -------------------------------------//
+
 GtkBuilder *builder;  // utilizado como descritor do arquivo de interface
 
  GtkWidget  *window;

@@ -42,4 +42,4 @@ line_break_column=72
 auto_continue_multiline=true
 
 [VTE]
-last_dir=~
+last_dir=/home/marcus
